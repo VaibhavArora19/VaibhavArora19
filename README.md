@@ -1,4 +1,4 @@
-<h1 style = "text-align: centre;"> Hi there 👋 </h1>
+<h1 style = "text-align: center;"> Hi there 👋 </h1>
 
 
 
