@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi 👋, I'm Vaibhav </h1>
-<h2 align = "center"> An IT undergrand, Web Developer and Open Source Contributor</h2>
+<h3 align = "center"> An IT undergrand, Web Developer and Open-Source Contributor</h3>
 
 
 
