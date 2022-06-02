@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 <h3 align="center">An IT undergrad, Web Developer and Open Source Contributor</h3> -->
 
-https://readme-typing-svg.herokuapp.com/?lines=Hi!+I+am+Vaibhav;An+IT+undergrad,+Web+Developer+and+Open+Source+Contributor(https://git.io/typing-svg)
+<img src = "https://readme-typing-svg.herokuapp.com/?lines=Hi!+I+am+Vaibhav;An+IT+undergrad,+Web+Developer;and+Open+Source+Contributor"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavarora19&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavarora19" /> </p>
 
