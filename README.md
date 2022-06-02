@@ -41,7 +41,7 @@
 <a href="https://instagram.com/vaibhavarora.19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavarora.19" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vaibhavarora19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhavarora19" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aroravaibhav817/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aroravaibhav817/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/WZjRA7uj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WZjRA7uj" height="30" width="40" /></a>
+<a href="https://discord.gg/uGsJXwxGU3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WZjRA7uj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
