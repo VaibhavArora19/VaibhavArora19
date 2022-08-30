@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with **Reactjs**
 
-- 👨‍💻 All of my projects are available at [https://vaibhavarora19.github.io/Portfolio/](https://vaibhavarora19.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://vaibhavcodes.me/](https://vaibhavcodes.me/)
 
 - 💬 Ask me about **Nodejs C++**
 
