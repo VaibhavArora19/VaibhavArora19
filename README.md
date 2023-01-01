@@ -1,5 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">An IT undergrad, Web Developer and Open Source Contributor</h3> -->
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h3 align="center">An IT undergrad, Web Developer and Open Source Contributor</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Ethereum Blockchain<br>👯 I’m looking to collaborate on web3 hackathons<br>🤝 I’m looking for help with Zk Rollups<br>🌱 I’m currently learning Go<br>💬 Ask me about React<br>⚡ Fun fact I used to be funny, I am not anymore
