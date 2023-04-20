@@ -19,9 +19,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=VaibhavArora19&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Vaibhavtwts)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=itsz_vaibhav)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=VaibhavArora19&theme=react&langs_count=5&layout=compact" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
