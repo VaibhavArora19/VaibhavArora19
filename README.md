@@ -22,6 +22,6 @@
 [![](https://gtce.itsvg.in/api?username=Vaibhavtwts)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VaibhavArora19&icon=0&color=6)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=VaibhavArora19&theme=react&langs_count=5&layout=compact" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
