@@ -1,26 +1,84 @@
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">An IT undergrad, Web Developer and Open Source Contributor</h3>
+<!--
+    Hey there, I'm Vaibhav Arora!
+    Happy to see you exploring my README 👋
+    If you like my work, consider giving a follow ⭐
+-->
 
-# 💫 About Me:
-🔭 I’m currently working on Ethereum Blockchain<br>👯 I’m looking to collaborate on web3 hackathons<br>🤝 I’m looking for help with Zk Rollups<br>🌱 I’m currently learning Go<br>💬 Ask me about React<br>⚡ Fun fact I used to be funny, I am not anymore
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hey%2C+I'm+Vaibhav!;Full+Stack+Engineer" alt="Business Analyst"/>
+</a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/vaibhav.arora.7311) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vaibhavarora.19/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-arora-5234301a0/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Vaibhavtwts) 
+<!--
+    A little visual flair never hurts ;)
+-->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VaibhavArora19&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VaibhavArora19&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavArora19&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VaibhavArora19&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=itsz_vaibhav)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+I’m **Vaibhav**, a **Full Stack Engineer** passionate about building **crypto infrastructure**, **ZK systems**, and **multi-chain DeFi tooling**.  
+I love exploring the intersection of **cryptography, distributed systems, and product design** — building tools that empower developers and simplify complex blockchain logic.
+
+🧠 Currently:  
+- Building at **Syntax Studios** — architecting **Splat**, a Solana perpetual trading protocol  
+- Exploring **Zero-Knowledge proofs**, and **on-chain privacy**
+
+---
+
+### ⚙️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=rust,ts,solidity,react,nextjs,nodejs,nestjs,graphql,postgres,redis,docker,kubernetes,aws,github,git)](https://skillicons.dev)
+
+---
+
+### 🚀 Featured Projects
+
+🔹 **[ExplorerX](https://explorerx.vercel.app)** — Deploy and verify smart contracts across multiple chains from a single UI.  
+🔹 **[Simplefluid](https://github.com/VaibhavArora19/Simplefluid)** — Manage and automate your Superfluid token streams.  
+🔹 **[Pumpfun Indexer](https://github.com/VaibhavArora19/pumpfun-indexer)** — High-performance Rust indexer for the Pump.fun ecosystem on Solana.  
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **18× Hackathon Winner** — Polygon DevX, Chainlink Constellation, ETHGlobal & more  
+- 💰 **$25,000+** in prizes building across ZK, Filecoin, and L2 ecosystems  
+- ⚙️ **Base Fellowship 2024** — Selected as one of 29 fellows out of 500+ applicants  
+- 🧩 Contributor to multiple **Web3 startups** including **BuidlersTribe** and **Clamp**
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/0xvaibhav_">
+    <img src="https://img.shields.io/badge/Twitter-0xvaibhav__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/VaibhavArora19">
+    <img src="https://img.shields.io/badge/GitHub-VaibhavArora19-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/vaibhav-arora-5234301a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Arora-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aroravaibhav817@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aroravaibhav817%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 📄 Resume
+
+> <a href="https://drive.google.com/file/d/1bdn6VSqtaj2-xgGyQDGHnrJihHjFzQSS/view?usp=sharing" download>Download my resume</a>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
+
+<!--
+Thanks for visiting! Drop a ⭐ if you liked this profile.
+-->
