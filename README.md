@@ -22,8 +22,7 @@
 I’m **Vaibhav**, a **Full Stack Engineer** passionate about building **crypto infrastructure**, **ZK systems**, and **multi-chain DeFi tooling**.  
 I love exploring the intersection of **cryptography, distributed systems, and product design** — building tools that empower developers and simplify complex blockchain logic.
 
-🧠 Currently:  
-- Building at **Syntax Studios** — architecting **Splat**, a Solana perpetual trading protocol  
+🧠 Currently:
 - Exploring **Zero-Knowledge proofs**, and **on-chain privacy**
 
 ---
