@@ -71,7 +71,7 @@ I love exploring the intersection of **cryptography, distributed systems, and pr
 
 ### 📄 Resume
 
-> <a href="https://drive.google.com/file/d/1bdn6VSqtaj2-xgGyQDGHnrJihHjFzQSS/view?usp=sharing" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1hRgpFZbIEes4oZi-vHkAbhlyjI-oy7ql/view?usp=sharing" download>Download my resume</a>
 
 ---
 
